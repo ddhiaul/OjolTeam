@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924596588262",
+    "firebase_url": "https://ojolteam-e158e.firebaseio.com",
+    "project_id": "ojolteam-e158e",
+    "storage_bucket": "ojolteam-e158e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924596588262:android:32c147c9a68a034f8bb527",
+        "android_client_info": {
+          "package_name": "com.aulia.idn.ojolteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924596588262-kc8mt9nfododi8hnamkfp7258rogj3id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvMwvYPLLaxz7iwArXtH7Qxxa2fmv46M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924596588262-kc8mt9nfododi8hnamkfp7258rogj3id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
