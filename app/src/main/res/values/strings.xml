@@ -15,4 +15,15 @@
     <string name="don_t_have_account_sign_up">Don\'t have account? Sign Up</string>
     <string name="or">or</string>
     <string name="sign_up_google">Sign Up Google</string>
+    <string name="dari_mana">dari mana?</string>
+    <string name="rp_50_000">Rp 50.000</string>
+    <string name="_3menit">3 menit</string>
+    <string name="tunggu_driver_yang_ambil_ya">tunggu driver yang ambil ya..</string>
+    <string name="cileungsi_bogor">cileungsi, bogor</string>
+    <string name="estimasi_waktu">3 menit</string>
+    <string name="pesan">pesan</string>
+    <string name="nama_">nama :</string>
+    <string name="namaku">namaku</string>
+    <string name="email_">email :</string>
+    <string name="_gmail_com">gmail</string>
 </resources>
