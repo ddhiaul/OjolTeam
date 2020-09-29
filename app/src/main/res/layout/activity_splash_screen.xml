@@ -4,13 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorAccent"
+    android:background="@drawable/ojol_splashscreen"
     tools:context=".activity.SplashScreenActivity">
-
-    <ImageView
-        android:layout_width="@dimen/_100dp"
-        android:layout_height="@dimen/_100dp"
-        android:src="@drawable/icon"
-        android:layout_centerInParent="true"/>
 
 </RelativeLayout>

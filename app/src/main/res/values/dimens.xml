@@ -16,4 +16,7 @@
     <dimen name="_15sp">15sp</dimen>
     <dimen name="_25dp">25dp</dimen>
     <dimen name="_60dp">60dp</dimen>
+    <dimen name="_75dp">75dp</dimen>
+    <dimen name="_160dp">160dp</dimen>
+    <dimen name="_24sp">24sp</dimen>
 </resources>

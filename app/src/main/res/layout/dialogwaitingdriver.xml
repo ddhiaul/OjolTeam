@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent"
-    android:padding="@dimen/_40dp">
+    android:padding="@dimen/_40dp"
+    android:background="@drawable/bg">
 
     <ImageView
         android:id="@+id/iv_dialog_waiting"
         android:layout_width="@dimen/_100dp"
         android:layout_height="@dimen/_100dp"
         android:src="@drawable/icon"
-        android:layout_centerInParent="true"
-        />
+        android:layout_centerInParent="true" />
 
     <TextView
         android:layout_width="match_parent"
@@ -17,9 +17,8 @@
         android:text="@string/tunggu_driver_yang_ambil_ya"
         android:layout_below="@+id/iv_dialog_waiting"
         android:gravity="center"
-        android:textSize="@dimen/_15sp"
+        android:textSize="@dimen/_24sp"
         android:textStyle="bold"
-        android:layout_marginTop="@dimen/_20dp"
-        />
+        android:layout_marginTop="@dimen/_20dp" />
 
 </RelativeLayout>

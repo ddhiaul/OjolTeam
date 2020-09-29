@@ -10,7 +10,7 @@
         android:id="@+id/frame"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:background="@color/colorPrimary">
+        android:background="@color/colorBlue">
 
         <ImageView
             android:id="@+id/profile_image"
@@ -117,5 +117,5 @@
         android:layout_marginLeft="@dimen/_40dp"
         android:layout_marginRight="@dimen/_40dp"
         android:textColor="@android:color/white"
-        android:background="@color/colorPrimary"/>
+        android:background="@drawable/background2"/>
 </RelativeLayout>

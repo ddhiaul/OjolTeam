@@ -165,6 +165,7 @@
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:layout_alignParentBottom="true"
+        android:background="@drawable/background2"
         />
 
 </RelativeLayout>

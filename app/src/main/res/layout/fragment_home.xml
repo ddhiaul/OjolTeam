@@ -164,5 +164,6 @@
         android:textColor="@color/white"
         android:layout_marginBottom="@dimen/_60dp"
         android:layout_alignParentBottom="true"
+        android:background="@drawable/background2"
         />
 </RelativeLayout>

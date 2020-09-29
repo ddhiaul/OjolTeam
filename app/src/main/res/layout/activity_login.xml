@@ -4,7 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg"
     tools:context=".activity.LoginActivity">
+
+    <ImageView
+        android:id="@+id/logoLogin"
+        android:layout_width="@dimen/_75dp"
+        android:layout_height="@dimen/_75dp"
+        android:src="@drawable/logo_ojol"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_75dp"/>
 
     <EditText
         android:id="@+id/loginEmail"
@@ -12,11 +21,12 @@
         android:layout_height="@dimen/_45dp"
         android:gravity="center"
         android:hint="@string/email"
-        android:layout_marginTop="@dimen/_140dp"
+        android:layout_marginTop="@dimen/_160dp"
         android:layout_marginLeft="@dimen/_30dp"
         android:layout_marginRight="@dimen/_30dp"
         android:textSize="@dimen/_18sp"
-        android:background="@drawable/background"/>
+        android:background="@drawable/background"
+        android:layout_below="@+id/logoLogin"/>
 
     <EditText
         android:id="@+id/loginPassword"
@@ -52,7 +62,8 @@
         android:layout_below="@+id/loginButton"
         android:layout_marginTop="@dimen/_10dp"
         android:layout_marginLeft="@dimen/_30dp"
-        android:layout_marginRight="@dimen/_30dp"/>
+        android:layout_marginRight="@dimen/_30dp"
+        android:textColor="@color/white"/>
 
     <TextView
         android:id="@+id/textOr"
@@ -60,6 +71,7 @@
         android:layout_height="wrap_content"
         android:text="@string/or"
         android:textSize="@dimen/_20sp"
+        android:textColor="@color/colorDarkBlue"
         android:gravity="center"
         android:layout_marginTop="@dimen/_20dp"
         android:layout_marginRight="@dimen/_30dp"
